@@ -1,6 +1,6 @@
 package com.java.patterns;
 
-public class Pattern3 {
+public class pinky {
 
 	public static void main(String[] args) {
 
